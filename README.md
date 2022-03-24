@@ -20,4 +20,5 @@ Leaved the rest as default and clicked ***create bucket***
 
 Upload a Demo website to ***S3*** bucket ***surya-cloudfront*** 
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/4.png)
-
+Now click ***Upload***
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/5.png)
