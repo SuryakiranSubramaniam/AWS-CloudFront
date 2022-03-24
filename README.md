@@ -25,3 +25,6 @@ Now click ***Upload***
 
 Now go to ***Amazon S3 >> Buckets >> surya-cloudfront >> index.html*** and click ***open*** butten
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/6.png)
+
+Now you can see the website loding without any images in it
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/7.png)
