@@ -9,6 +9,7 @@ AWS CloudFront
 - Click on Create bucket 
 
 ***Step2***
+
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/2.png)
 - changed the bucket name to ***surya-cloudfront*** and region to ***Asia Pacific (Mumbai) ap-south-1***
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/3.png)
@@ -24,6 +25,7 @@ Now click ***Upload***
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/5.png)
 
 ***Step4***
+
 Now go to ***Amazon S3 >> Buckets >> surya-cloudfront >> index.html*** and click ***open*** butten
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/6.png)
 
