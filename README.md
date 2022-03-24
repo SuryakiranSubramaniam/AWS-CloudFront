@@ -22,3 +22,6 @@ Upload a Demo website to ***S3*** bucket ***surya-cloudfront***
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/4.png)
 Now click ***Upload***
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/5.png)
+
+Now go to ***Amazon S3 >> Buckets >> surya-cloudfront >> index.html*** and click ***open*** butten
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/6.png)
