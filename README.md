@@ -15,3 +15,9 @@ AWS CloudFront
 - Added tag Name ***surya-cloudfront***
 
 Leaved the rest as default and clicked ***create bucket***
+
+***Step3***
+
+Upload a Demo website to ***S3*** bucket ***surya-cloudfront*** 
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/4.png)
+
