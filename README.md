@@ -36,6 +36,8 @@ Now you can see the website loding without any images in it
 - Give ***Origin name*** 
 -  ***Name***
 -  Set ***S3 bucket access*** enable ***Yes use OAI (bucket can restrict access to only CloudFront)*** and Select an OAI(If there is no OAI clicl ***create new OAI***
+
+
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/8.png)
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/9.png)
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/10.png)
