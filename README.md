@@ -31,3 +31,21 @@ Now go to ***Amazon S3 >> Buckets >> surya-cloudfront >> index.html*** and click
 
 Now you can see the website loding without any images in it
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/7.png)
+**Step5***
+## Now go to ***Cloud Front*** and click ***Create Distribution*** 
+- Give ***Origin name*** 
+-  ***Name***
+-  Set ***S3 bucket access*** enable ***Yes use OAI (bucket can restrict access to only CloudFront)*** and Select an OAI(If there is no OAI clicl ***create new OAI***
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/8.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/9.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/10.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/11.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/12.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/13.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/14.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/15.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/16.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/17.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/18.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/19.png)
+![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/20.png)
