@@ -34,7 +34,7 @@ Now you can see the website loding without any images in it
 **Step5***
 ## Now go to ***Cloud Front*** and click ***Create Distribution*** 
 - Give ***Origin name*** 
--  ***Name***
+- Give ***Name***
 -  Set ***S3 bucket access*** enable ***Yes use OAI (bucket can restrict access to only CloudFront)*** and Select an OAI(If there is no OAI clicl ***create new OAI***
 -  Set ***Bucket policy*** and enable ***Yes, update the bucket policy***
 
