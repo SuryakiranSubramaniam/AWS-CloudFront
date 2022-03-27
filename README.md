@@ -81,6 +81,7 @@ Now Create a ***A record*** in ***Rout 53***
 
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/18.png)
 
+- Now try https://d1ivjkpgpq6n8k.cloudfront.net
 
 ![alt text](https://github.com/SuryakiranSubramaniam/AWS-CloudFront/blob/main/image/19.png)
 
